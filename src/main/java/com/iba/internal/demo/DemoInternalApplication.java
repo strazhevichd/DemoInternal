@@ -1,4 +1,4 @@
-package com.iba.internal.demo.demointernal;
+package com.iba.internal.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
